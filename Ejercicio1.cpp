@@ -9,4 +9,4 @@ int main(){ //Funcion principal  //Aqui comienza el programa
 	cout<<"hola mundo";
 	
 	return 0;
-}  // Aqui finaliza el programa
+}  // Aqui finaliza el programa.
